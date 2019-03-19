@@ -1,0 +1,13 @@
+[package]
+name = "learn-tokio"
+version = "0.1.0"
+authors = ["Alex <li.liang@mydreamplus.com>"]
+edition = "2018"
+
+[dependencies]
+tokio="0.1"
+http="0.1"
+httparse="1.3"
+url="1.7"
+rand="0.6"
+chrono = "0.4"
